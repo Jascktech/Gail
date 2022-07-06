@@ -10,4 +10,5 @@ There's a navbar at the bottom of each page with links to the other pages.
 
 HTML and CSS were used. Bootstrap was included as well.
 
+My family wanted pastel colors so I tried to work around that but the styles are a bit basic so I'd like to smooth those out and make it look more professional at some point. At some point I'd like to include pictures in the timeline and possibly the memories page as well. I'm also thinking about creating a page for quotes and maybe another one for just a collage of pictures. 
 
