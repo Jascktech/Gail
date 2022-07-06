@@ -13,3 +13,4 @@ div.box p {padding: 10px; }
 .area h1 {text-align: center; color: rgb(58, 50, 37);}
 .quote {background-color: azure; margin: 10px auto; padding: 10px; border-radius: 120px; border: solid 5px rgb(58, 50, 37); color: rgb(58, 50, 37); height: max-content; box-shadow: 5px 5px;}
 .quote p { margin:15px; text-align: center; padding: 5px;}
+footer {background: rgb(67, 55, 101);}
