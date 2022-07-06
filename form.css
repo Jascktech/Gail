@@ -21,7 +21,7 @@ header {
     border-radius: 5px;
     box-shadow: inset 0 0 10px gray ;
     }
-.container form label input {background-color: #3c4957; color: rgb(121, 174, 174);}
+.container form label input {background-color: #3c4957; color: rgb(121, 174, 174); width: 215px;}
 
 div.email {margin-left: 61px;}
 div.story {margin-left: 40px;}
